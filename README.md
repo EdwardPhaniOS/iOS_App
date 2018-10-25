@@ -1,1 +1,1 @@
-# iOS_App
+# Simple IQ Game
