@@ -1,1 +1,1 @@
-# Simple IQ Game
+# Simple Game for Beginer Level
